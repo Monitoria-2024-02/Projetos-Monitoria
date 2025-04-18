@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  list-style: none;
+  text-decoration: none;
+  font-family: 'Arial', sans-serif;
+}
+
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+}
+
+:root {
+  --color-background: #ECF2FF;
+
+  --color-primary: #6844FF;
+  --color-primary-dark: #312CE9;
+
+  --color-dark: #303B59;
+  --color-light: #FEFFFA;
+
+  --color-destructive: #DB8584;
+  --color-destructive-100: #DB858450;
+
+  --color-alert: #FAD490;
+  --color-alert-100: #FAD49050;
+
+  --color-success: #4EC39F;
+  --color-success-100: #4EC39F50;
+
+  --color-info: #5459A4;
+  --color-info-100: #5459A450;
+}
