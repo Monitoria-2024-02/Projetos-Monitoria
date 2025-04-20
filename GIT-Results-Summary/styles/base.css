@@ -20,6 +20,8 @@
 
   --color-info: #5459A4;
   --color-info-100: #5459A42f;
+
+  --size-sm: 38rem
 }
 
 * {
